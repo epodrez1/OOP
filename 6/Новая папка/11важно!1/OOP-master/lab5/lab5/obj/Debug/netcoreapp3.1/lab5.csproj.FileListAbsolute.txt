@@ -1,0 +1,13 @@
+D:\Учёба\2_курс\прога\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+D:\Учёба\2_курс\прога\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+D:\Учёба\2_курс\прога\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+D:\Учёба\2_курс\прога\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+D:\Учёба\2_курс\прога\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+D:\Учёба\2_курс\прога\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+D:\Учёба\2_курс\прога\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache

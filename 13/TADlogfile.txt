@@ -1,0 +1,105 @@
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Свободное место на диске в байтах: 34991230976
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Файловая система: NTFS
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Имя диска: E:\. Объём: 34991230976байт. Доступный объём: 34991230976байт. Метка тома: Secondary. 
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Полный путь к файлу: C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Размер: 1147байт. Расширение: .txt. Имя: C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt. 
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Дата создания: 07.12.2020 20:19:41. Дата изменения: 07.12.2020 20:19:41. 
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Количество файлов в C:\Users\User\Documents\учебные_штуки\2_курс\ооп: 0
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Дата создания: 01.09.2020 11:45:42
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Количество каталогов: 19
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Родительский каталог: C:\Users\User\Documents\учебные_штуки
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Файлы: 
+C:\DumpStack.log
+C:\DumpStack.log.tmp
+C:\hiberfil.sys
+C:\info.txt
+C:\pagefile.sys
+C:\swapfile.sys
+Папки: 
+C:\$RECYCLE.BIN
+C:\$WinREAgent
+C:\Documents and Settings
+C:\Intel
+C:\MSOCache
+C:\Program Files
+C:\Program Files (x86)
+C:\ProgramData
+C:\Recovery
+C:\System Volume Information
+C:\temp
+C:\Users
+C:\Windows
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Создана папка C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADInspect
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Создан файл C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADInspect\TADdirinfo.txt
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Произошло копирование в новый файлC:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADInspect\TADdirinfo1.txtи удаление исходного файла
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Создана папка C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADFiles
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Произошло копирование файлов
+
+Имя файла: ZDAlogfile.txt
+Путь к файлу C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\TADlogfile.txt
+Дата создания: 07.12.2020 20:19:41
+Произошло перемещение папки
+

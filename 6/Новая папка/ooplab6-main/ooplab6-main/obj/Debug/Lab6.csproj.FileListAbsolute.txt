@@ -1,0 +1,7 @@
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\6\ooplab6-main\ooplab6-main\bin\Debug\Lab6.exe.config
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\6\ooplab6-main\ooplab6-main\bin\Debug\Lab6.exe
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\6\ooplab6-main\ooplab6-main\bin\Debug\Lab6.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\6\ooplab6-main\ooplab6-main\obj\Debug\Lab6.csprojAssemblyReference.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\6\ooplab6-main\ooplab6-main\obj\Debug\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\6\ooplab6-main\ooplab6-main\obj\Debug\Lab6.exe
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\6\ooplab6-main\ooplab6-main\obj\Debug\Lab6.pdb

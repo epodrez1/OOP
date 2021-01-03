@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfTransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Transport>
+    <type>str</type>
+    <volume>4</volume>
+    <price>1</price>
+    <min_speed>2</min_speed>
+    <max_speed>3</max_speed>
+    <Type>str</Type>
+    <Volume>4</Volume>
+    <Price>1</Price>
+    <MinSpeed>2</MinSpeed>
+    <MaxSpeed>3</MaxSpeed>
+  </Transport>
+  <Transport>
+    <type>str1</type>
+    <volume>5</volume>
+    <price>2</price>
+    <min_speed>3</min_speed>
+    <max_speed>4</max_speed>
+    <Type>str1</Type>
+    <Volume>5</Volume>
+    <Price>2</Price>
+    <MinSpeed>3</MinSpeed>
+    <MaxSpeed>4</MaxSpeed>
+  </Transport>
+</ArrayOfTransport>

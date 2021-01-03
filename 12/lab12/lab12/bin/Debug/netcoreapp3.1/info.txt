@@ -1,0 +1,835 @@
+Имя сборки
+lab12
+Имена конструкторов
+Train
+Train
+Train
+Train
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+Имена интерфейсов
+INum
+Метод с параметром
+GetInfo
+Имя сборки
+lab12
+Имена конструкторов
+Transport
+Transport
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+Имена полей и свойств
+type
+number
+Type
+Number
+Имена интерфейсов
+INum
+Метод с параметром
+GetInfo
+Имя сборки
+lab12
+Имена конструкторов
+Train
+Train
+Train
+Train
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+Имена интерфейсов
+INum
+Метод с параметром
+GetInfo
+Имя сборки
+lab12
+Имена конструкторов
+Train
+Train
+Train
+Train
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+Имена интерфейсов
+INum
+Метод с параметром
+GetInfo
+Имя сборки
+lab12
+Имена конструкторов
+Transport
+Transport
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+Имена полей и свойств
+type
+number
+Type
+Number
+Имена интерфейсов
+INum
+Метод с параметром
+GetInfo
+Имя сборки
+lab12
+Имена конструкторов
+Train
+Train
+Train
+Train
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+Имена интерфейсов
+INum
+Метод с параметром
+GetInfo
+Имя сборки
+lab12
+Имена конструкторов
+Transport
+Transport
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+Имена полей и свойств
+type
+number
+Type
+Number
+Имена интерфейсов
+INum
+Метод с параметром
+GetInfo
+Имя сборки
+lab12
+
+Имена конструкторов
+Train
+Train
+Train
+Train
+
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+
+Имена интерфейсов
+INum
+
+Метод с параметром
+GetInfo
+
+Имя сборки
+lab12
+
+Имена конструкторов
+Transport
+Transport
+
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+
+Имена полей и свойств
+type
+number
+
+Type
+Number
+
+Имена интерфейсов
+INum
+
+Метод с параметром
+GetInfo
+
+Имя сборки
+lab12
+
+Имена конструкторов
+Train
+Train
+Train
+Train
+
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+
+Имена интерфейсов
+INum
+
+Метод с параметром
+GetInfo
+
+Имя сборки
+lab12
+
+Имена конструкторов
+Transport
+Transport
+
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+
+Имена полей и свойств
+type
+number
+
+Type
+Number
+
+Имена интерфейсов
+INum
+
+Метод с параметром
+GetInfo
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Train
+Train
+Train
+Train
+
+
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+
+
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Transport
+Transport
+
+
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+
+
+Имена полей и свойств
+type
+number
+
+Type
+Number
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Train
+Train
+Train
+Train
+
+
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+
+
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Transport
+Transport
+
+
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+
+
+Имена полей и свойств
+type
+number
+
+Type
+Number
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Train
+Train
+Train
+Train
+
+
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+
+
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Train
+Train
+Train
+Train
+
+
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+
+
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Transport
+Transport
+
+
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+
+
+Имена полей и свойств
+type
+number
+
+Type
+Number
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Train
+Train
+Train
+Train
+
+
+Имена методов
+get_Destination
+set_Destination
+get_Number
+set_Number
+get_Time
+set_Time
+get_Amount_kupe
+set_Amount_kupe
+get_Amount_plackart
+set_Amount_plackart
+get_Amount_lux
+set_Amount_lux
+AmountOut
+GetInfo
+Equals
+GetHashCode
+ToString
+Num
+GetType
+
+
+Имена полей и свойств
+destination
+amount_kupe
+amount_plackart
+amount_lux
+amount
+
+Destination
+Number
+Time
+Amount_kupe
+Amount_plackart
+Amount_lux
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+
+Имя сборки
+lab12
+
+
+Имена конструкторов
+Transport
+Transport
+
+
+Имена методов
+get_Type
+set_Type
+get_Number
+set_Number
+ToString
+GetInfo
+Num
+GetType
+Equals
+GetHashCode
+
+
+Имена полей и свойств
+type
+number
+
+Type
+Number
+
+
+Имена интерфейсов
+INum
+
+
+Метод с параметром
+GetInfo
+
+

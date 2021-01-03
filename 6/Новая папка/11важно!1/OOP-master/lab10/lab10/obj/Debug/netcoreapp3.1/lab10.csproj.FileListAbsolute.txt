@@ -1,0 +1,13 @@
+D:\Учёба\2_курс\прога\lab10\lab10\bin\Debug\netcoreapp3.1\lab10.exe
+D:\Учёба\2_курс\прога\lab10\lab10\bin\Debug\netcoreapp3.1\lab10.deps.json
+D:\Учёба\2_курс\прога\lab10\lab10\bin\Debug\netcoreapp3.1\lab10.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab10\lab10\bin\Debug\netcoreapp3.1\lab10.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab10\lab10\bin\Debug\netcoreapp3.1\lab10.dll
+D:\Учёба\2_курс\прога\lab10\lab10\bin\Debug\netcoreapp3.1\lab10.pdb
+D:\Учёба\2_курс\прога\lab10\lab10\obj\Debug\netcoreapp3.1\lab10.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab10\lab10\obj\Debug\netcoreapp3.1\lab10.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab10\lab10\obj\Debug\netcoreapp3.1\lab10.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab10\lab10\obj\Debug\netcoreapp3.1\lab10.dll
+D:\Учёба\2_курс\прога\lab10\lab10\obj\Debug\netcoreapp3.1\lab10.pdb
+D:\Учёба\2_курс\прога\lab10\lab10\obj\Debug\netcoreapp3.1\lab10.genruntimeconfig.cache
+D:\Учёба\2_курс\прога\lab10\lab10\obj\Debug\netcoreapp3.1\lab10.csproj.CoreCompileInputs.cache

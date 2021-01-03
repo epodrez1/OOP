@@ -1,0 +1,13 @@
+D:\Учёба\2_курс\прога\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+D:\Учёба\2_курс\прога\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+D:\Учёба\2_курс\прога\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+D:\Учёба\2_курс\прога\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+D:\Учёба\2_курс\прога\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+D:\Учёба\2_курс\прога\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+D:\Учёба\2_курс\прога\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache

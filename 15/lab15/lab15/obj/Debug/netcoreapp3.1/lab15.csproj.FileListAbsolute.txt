@@ -1,0 +1,26 @@
+D:\Учёба\2_курс\прога\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.exe
+D:\Учёба\2_курс\прога\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.deps.json
+D:\Учёба\2_курс\прога\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.dll
+D:\Учёба\2_курс\прога\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.pdb
+D:\Учёба\2_курс\прога\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.dll
+D:\Учёба\2_курс\прога\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.pdb
+D:\Учёба\2_курс\прога\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.genruntimeconfig.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.exe
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.deps.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.runtimeconfig.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.runtimeconfig.dev.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\bin\Debug\netcoreapp3.1\lab15.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.csprojAssemblyReference.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.AssemblyInfo.cs
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\15\lab15\lab15\obj\Debug\netcoreapp3.1\lab15.genruntimeconfig.cache

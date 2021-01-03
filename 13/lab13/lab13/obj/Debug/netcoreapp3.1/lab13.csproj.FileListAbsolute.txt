@@ -1,0 +1,39 @@
+D:\Учёба\2_курс\прога\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.exe
+D:\Учёба\2_курс\прога\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.deps.json
+D:\Учёба\2_курс\прога\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.dll
+D:\Учёба\2_курс\прога\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.pdb
+D:\Учёба\2_курс\прога\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.dll
+D:\Учёба\2_курс\прога\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.pdb
+D:\Учёба\2_курс\прога\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.genruntimeconfig.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.exe
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.deps.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.dev.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csprojAssemblyReference.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfo.cs
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.genruntimeconfig.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.exe
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.deps.json
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.json
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.runtimeconfig.dev.json
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.dll
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\bin\Debug\netcoreapp3.1\lab13.pdb
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csprojAssemblyReference.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.AssemblyInfo.cs
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.dll
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.pdb
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\13\lab13\lab13\obj\Debug\netcoreapp3.1\lab13.genruntimeconfig.cache

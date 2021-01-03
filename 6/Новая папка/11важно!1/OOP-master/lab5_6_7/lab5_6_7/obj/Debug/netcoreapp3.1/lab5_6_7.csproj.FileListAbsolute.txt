@@ -1,0 +1,13 @@
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\bin\Debug\netcoreapp3.1\lab5_6_7.exe
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\bin\Debug\netcoreapp3.1\lab5_6_7.deps.json
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\bin\Debug\netcoreapp3.1\lab5_6_7.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\bin\Debug\netcoreapp3.1\lab5_6_7.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\bin\Debug\netcoreapp3.1\lab5_6_7.dll
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\bin\Debug\netcoreapp3.1\lab5_6_7.pdb
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\obj\Debug\netcoreapp3.1\lab5_6_7.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\obj\Debug\netcoreapp3.1\lab5_6_7.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\obj\Debug\netcoreapp3.1\lab5_6_7.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\obj\Debug\netcoreapp3.1\lab5_6_7.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\obj\Debug\netcoreapp3.1\lab5_6_7.dll
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\obj\Debug\netcoreapp3.1\lab5_6_7.pdb
+D:\Учёба\2_курс\прога\lab5_6_7\lab5_6_7\obj\Debug\netcoreapp3.1\lab5_6_7.genruntimeconfig.cache

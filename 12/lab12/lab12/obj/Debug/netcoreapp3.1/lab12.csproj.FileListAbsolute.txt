@@ -1,0 +1,26 @@
+D:\Учёба\2_курс\прога\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.exe
+D:\Учёба\2_курс\прога\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.deps.json
+D:\Учёба\2_курс\прога\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.dll
+D:\Учёба\2_курс\прога\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.pdb
+D:\Учёба\2_курс\прога\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.dll
+D:\Учёба\2_курс\прога\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.pdb
+D:\Учёба\2_курс\прога\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.genruntimeconfig.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.exe
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.deps.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.runtimeconfig.dev.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\bin\Debug\netcoreapp3.1\lab12.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csprojAssemblyReference.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.AssemblyInfo.cs
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\12\lab12\lab12\obj\Debug\netcoreapp3.1\lab12.genruntimeconfig.cache

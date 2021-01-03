@@ -1,0 +1,51 @@
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.exe
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.deps.json
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.dll
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.pdb
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.Handles.dll
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.Interfaces.dll
+D:\Учёба\2_курс\прога\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.LinqExtender.dll
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csproj.CopyComplete
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.dll
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.pdb
+D:\Учёба\2_курс\прога\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.genruntimeconfig.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.exe
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.deps.json
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.runtimeconfig.json
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.runtimeconfig.dev.json
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.dll
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.pdb
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.Handles.dll
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.Interfaces.dll
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.LinqExtender.dll
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csprojAssemblyReference.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.AssemblyInfo.cs
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csproj.CopyComplete
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.dll
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.pdb
+C:\Users\User\Documents\учебные_штуки\2_курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.genruntimeconfig.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.exe
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.deps.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.runtimeconfig.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.runtimeconfig.dev.json
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\lab14.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.Handles.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.Interfaces.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\bin\Debug\netcoreapp3.1\Eco.LinqExtender.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csprojAssemblyReference.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.AssemblyInfoInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.AssemblyInfo.cs
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.csproj.CopyComplete
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.dll
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.pdb
+C:\Users\User\Documents\учебные штуки\2 курс\ооп\14\lab14\lab14\obj\Debug\netcoreapp3.1\lab14.genruntimeconfig.cache

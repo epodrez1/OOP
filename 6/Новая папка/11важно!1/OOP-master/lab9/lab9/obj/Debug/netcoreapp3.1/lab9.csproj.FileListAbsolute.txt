@@ -1,0 +1,13 @@
+D:\Учёба\2_курс\прога\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.csprojAssemblyReference.cache
+D:\Учёба\2_курс\прога\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfoInputs.cache
+D:\Учёба\2_курс\прога\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.AssemblyInfo.cs
+D:\Учёба\2_курс\прога\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.csproj.CoreCompileInputs.cache
+D:\Учёба\2_курс\прога\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.exe
+D:\Учёба\2_курс\прога\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.deps.json
+D:\Учёба\2_курс\прога\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.json
+D:\Учёба\2_курс\прога\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.runtimeconfig.dev.json
+D:\Учёба\2_курс\прога\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.dll
+D:\Учёба\2_курс\прога\lab9\lab9\bin\Debug\netcoreapp3.1\lab9.pdb
+D:\Учёба\2_курс\прога\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.dll
+D:\Учёба\2_курс\прога\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.pdb
+D:\Учёба\2_курс\прога\lab9\lab9\obj\Debug\netcoreapp3.1\lab9.genruntimeconfig.cache
